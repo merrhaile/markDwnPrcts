@@ -1,6 +1,6 @@
 # Mark Down Practice
 
-This line is to test **bold text **
+This line is to test **bold text**
 
 *Js function* 
 
