@@ -15,4 +15,4 @@ function helloWorld() {
 + PYTHON
 + R
 
-[README](https://github.com/merrhaile/markDwnPrcts/edit/main/README.md)
+[Link to README](https://github.com/merrhaile/markDwnPrcts/edit/main/README.md)
