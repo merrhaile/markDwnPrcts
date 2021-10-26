@@ -3,11 +3,13 @@
 This line is to test **bold text **
 
 *Js function* 
-``` function helloWorld() {
+
+``` 
+function helloWorld() {
         console.log("Hello World");
         }
 ```
-# computer languages
+### computer languages
 + JAVA
 + JAVASCRIPT
 + PYTHON
